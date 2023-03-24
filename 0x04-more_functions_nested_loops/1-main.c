@@ -3,7 +3,7 @@
 
 /**
  * main - check the code
- *
+ *_isdigit - checks if a character is a digit
  * Return: Always 0.
  */
 int main(void)
